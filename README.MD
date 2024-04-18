@@ -1,5 +1,5 @@
 # Welcome to Our cattle can help program
-This program aims to help farmers across the country! In this documents, you will get a scoop of our [team members](#Group-Information), [project title](#project-title), [research problem statements](#research-problem-statements), [research novelty](#research-novelty), [overview](#overview), [environment settings](#environmen-settings), and [Installation](#installation).
+This program aims to help farmers across the country! In this documents, you will get a scoop of our [team members](#Group-Information), [project title](#project-title), [research problem statements](#research-problem-statements), [research novelty](#research-novelty), [overview](#overview), [environment settings](#environment-settings), and [Installation](#installation).
 
 
 # Group Information
