@@ -35,7 +35,7 @@ This project presents a way to maintain and manage soil fertility evenly through
 
 **Proposed system architecture**
 
-![Alt text](utils/System%20Architecture.png)
+![Alt text](System%20Architecture.png)
 
 Our system consists of 4 main parts; End Node, Senet, AWS server, Web appliation.
 
