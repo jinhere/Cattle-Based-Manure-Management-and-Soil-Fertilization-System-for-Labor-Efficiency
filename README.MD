@@ -5,7 +5,7 @@ This program aims to help farmers across the country! In this documents, you wil
 # Group Information
 **Team Cattle Can Help**
 
-| Name | Major |
+| Name | Affiliation |
 |---|---|
 |Youjin Kim|Kyung Hee University|
 |Chaerim Lim|Yonsei University|
