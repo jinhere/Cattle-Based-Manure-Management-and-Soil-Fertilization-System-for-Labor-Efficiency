@@ -1,4 +1,4 @@
-# Towards new type of farm where cattle can deal with their own manure!
+# IoT-driven cattle farm where cattle can deal with their own manure!
 This program aims to help farmers across the country! In this documents, you will get a scoop of our [team members](#Group-Information), [project title](#project-title), [research problem statements](#research-problem-statements), [research novelty](#research-novelty), [overview](#overview), [environment settings](#environment-settings), and [Installation](#installation).
 
 
