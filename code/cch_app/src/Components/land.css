@@ -1,0 +1,12 @@
+/*Background of farm*/
+.image-bg {
+    width: 80vw;
+    height : 40vh;
+    background-image: url('./land.png');
+    background-size: 80vw 40vh;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    justify-content: center;
+}
