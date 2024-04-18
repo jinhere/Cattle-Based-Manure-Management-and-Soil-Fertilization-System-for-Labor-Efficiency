@@ -16,22 +16,16 @@ This program aims to help farmers across the country! In this documents, you wil
 
 # Project Title
 
-Cattle-based Manure Management System for Soil Fertilization
+Cattle-Based Manure Management and Soil Fertilization System for Labor Efficiency
 
 # Research Problem Statements
 
-This research tackles the problem of alleviating heavy workload during manure management in cattle farms. Cow manure is known for its rich nutrients, which is commonly used to nourish the soil before farmers plant their
-crops in the upcoming spring. However, if not taken care of on a daily basis, manure will accumulate, causing severe pollution and health problems to every living entity on the farm. So far, farmers had to collect manure every day and manually distribute it on the farmland for soil fertilization process. The aim of this paper is to present a novel manure management method that utilizes cattle to reduce the physical burden in the soil fertilization process.
-
-# Research Novelty
-
-This approach presents a pragmatic solution to a common agricultural challenge. By integrating automation with the Internet of Things, we can significantly reduce the time farmers spend on manure management. Our method involves the use of an NPK sensor to monitor nitrogen levels across different land areas. This sensor transmits data to our central server for processing. The analyzed information is then relayed back to an ESP32 controller, which determines whether to open or close a protein basket. This strategy effectively entices cattle to specific areas where their manure can be most beneficial, thereby optimizing land fertility management.
-
-This system proposed an IoT-based soil fertility management system integrating the natural habits of cattle and their defecation. By combining utilization of LoRaWAN and multiple NPK sensors, this system aimed to facilitate long-distance and comprehensive fertility monitoring on the farm. Furthermore, drawing inspiration from the previously investigated ideal NPK levels based on inherent tendencies and behavioral patterns, the proposed approach involved inducing waste deposition in specific areas.
+Improving and maintaining soil fertility is a crucial responsibility among essential farming tasks. On cattle farms, the task of collecting and distributing cow manure for soil fertility management has been one of the most substantial shares of the excessive workload for farmers. This paper introduces a novel method for labor-reduced manure management and soil fertilization process, aimed at improving labor efficiency. 
 
 # Overview
 
-This project presents a way to maintain and manage soil fertility evenly through a web application using IoT systems and cattle habits. In this system, feeders and buzzers can be used to attract cattle to low fertility areas and increase fertility through cattle. Soil nutrient data is gathered using NPK sensors and transmitted via LoRaWAN, enabling users at a distance to access precise information about soil fertility from the farm. It is practical as it achieves its purpose and is expected that the physical burden on the farmer can be reduced by offloading menial labor to the cattle by using what cows do naturally. 
+The proposed approach utilizes an Internet of Things solution that leverages the natural behavior and excretory activities of cattle. Dividing farmlands into smaller units, installed end nodes collect soil nutrient data from each area. Through a centralized web application, farmers can remotely oversee and manage the soil fertility of their entire farmland. Upon a farmer identifying areas with nutrient deficiencies, the proposed system utilizes feeders and bells to attract cattle to these low-fertility areas, encouraging them to deposit manure and enhance soil fertility. The LoRaWAN protocol facilitates bi-directional interaction between farmers located remotely and sensors deployed across vast agricultural landscapes, enabling efficient communication in expansive farming settings. 
+
 
 **Proposed system architecture**
 
